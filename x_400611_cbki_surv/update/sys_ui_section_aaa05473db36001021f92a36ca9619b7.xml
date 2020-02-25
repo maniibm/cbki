@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Soft Skills" section_id="aaa05473db36001021f92a36ca9619b7" sys_domain="global" table="x_400611_cbki_surv_cbki_survey_assessments" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem_solving_techniques</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_id>a2a09473db36001021f92a36ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>written_and_verbal_communication</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_id>26a09473db36001021f92a36ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ownership_of_work</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_id>a6a09473db36001021f92a36ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sense_of_urgency</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_id>2aa09473db36001021f92a36ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leadership_skills_applicable_only_for_leads</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_id>aaa09473db36001021f92a36ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimation_skills_applicable_for_all_senior_technical_and_functional_consultant</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_id>2ea09473db36001021f92a36ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_requirements_understanding</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_id>aea09473db36001021f92a36ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Soft Skills</caption>
+            <header>false</header>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaa05473db36001021f92a36ca9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Soft Skills</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+            <sys_update_name>sys_ui_section_aaa05473db36001021f92a36ca9619b7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

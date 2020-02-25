@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="knowledge_on_abap_programming" table="x_400611_cbki_surv_cbki_survey_assessments" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92e54cf7dbf2001021f92a36ca9619f8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:17</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1.5</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33e54cf7dbf2001021f92a36ca9619f0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:35</sys_updated_on>
+            <value>1.5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34f5c8f7dbf2001021f92a36ca961935</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:37</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2.5</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6df5003bdbf2001021f92a36ca96190e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:43</sys_updated_on>
+            <value>2.5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7906ccf7dbf2001021f92a36ca961954</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:46</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3.5</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a06003bdbf2001021f92a36ca9619d1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:51</sys_updated_on>
+            <value>3.5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3306403bdbf2001021f92a36ca96192e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:54</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4.5</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7416403bdbf2001021f92a36ca9619b0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:58</sys_updated_on>
+            <value>4.5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:55:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f116403bdbf2001021f92a36ca961981</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:55:01</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>knowledge_on_abap_programming</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NA</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:55:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea16403bdbf2001021f92a36ca96197b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:55:07</sys_updated_on>
+            <value>NA</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>knowledge_on_abap_programming</element>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:54:16</sys_created_on>
+            <sys_id>bfe58cf7dbf2001021f92a36ca9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>knowledge_on_abap_programming</sys_name>
+            <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+            <sys_update_name>sys_choice_x_400611_cbki_surv_cbki_survey_assessments_knowledge_on_abap_programming</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:54:16</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

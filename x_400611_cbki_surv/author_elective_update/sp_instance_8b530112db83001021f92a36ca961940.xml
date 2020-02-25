@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">65e43cd2db43001021f92a36ca9619ff</sp_column>
+        <sp_widget display_value="Image Link">86776e0453331300a699ddeeff7b12be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-20 18:47:28</sys_created_on>
+        <sys_id>8b530112db83001021f92a36ca961940</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Assessment Guidelines</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_update_name>sp_instance_8b530112db83001021f92a36ca961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-20 18:48:46</sys_updated_on>
+        <title>Assessment Guidelines</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"image": {
+		"value": "<img src=\"Assessment.png\" width=\"1583\" height=\"543\"/>",
+		"displayValue": "<img src=\"Assessment.png\" width=\"1583\" height=\"543\"/>"
+	},
+	"title": {
+		"value": "Assessment Guidelines",
+		"displayValue": "Assessment Guidelines"
+	},
+	"description": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=8b530112db83001021f92a36ca961940"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</application>
+        <file_path/>
+        <instance_id>f4d6c141db09b70449eac597059619ba</instance_id>
+        <instance_name>dev83258</instance_name>
+        <name>sp_instance_8b530112db83001021f92a36ca961940</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;65e43cd2db43001021f92a36ca9619ff&lt;/sp_column&gt;&lt;sp_widget display_value="Image Link"&gt;86776e0453331300a699ddeeff7b12be&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-02-20 18:47:28&lt;/sys_created_on&gt;&lt;sys_id&gt;8b530112db83001021f92a36ca961940&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Assessment Guidelines&lt;/sys_name&gt;&lt;sys_package display_value="CBKI Survey" source="x_400611_cbki_surv"&gt;7d4363efdb72001021f92a36ca9619f1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CBKI Survey"&gt;7d4363efdb72001021f92a36ca9619f1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_8b530112db83001021f92a36ca961940&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-02-20 18:48:46&lt;/sys_updated_on&gt;&lt;title&gt;Assessment Guidelines&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"image": {
+		"value": "&lt;img src=\"Assessment.png\" width=\"1583\" height=\"543\"/&gt;",
+		"displayValue": "&lt;img src=\"Assessment.png\" width=\"1583\" height=\"543\"/&gt;"
+	},
+	"title": {
+		"value": "Assessment Guidelines",
+		"displayValue": "Assessment Guidelines"
+	},
+	"description": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=8b530112db83001021f92a36ca961940"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2049667214</payload_hash>
+        <record_name>Assessment Guidelines</record_name>
+        <reverted_from/>
+        <source>76746363dbb2001021f92a36ca961977</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-20 18:48:46</sys_created_on>
+        <sys_id>16a389dedb43001021f92a36ca9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17063ee4bf70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-20 18:48:46</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>5ea389de074300107eb3f6dc382731cf</update_guid>
+        <update_guid_history>5ea389de074300107eb3f6dc382731cf:-2049667214,0a9349124c830010c311ff35cb2bd690:1391531078,4353011279830010c58833162ae1b642:880595414</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assessment Guidelines">37a38d12db83001021f92a36ca9619b3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-20 18:48:52</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>66539948dd3f4b249222878d9aab7110</sys_id>
+        <sys_metadata>8b530112db83001021f92a36ca961940</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assessment Guidelines</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_scope_delete display_value="">28c8f024361e419c8a0bad11da334b90</sys_scope_delete>
+        <sys_update_name>sp_instance_8b530112db83001021f92a36ca961940</sys_update_name>
+        <sys_update_version display_value="sp_instance_8b530112db83001021f92a36ca961940">16a389dedb43001021f92a36ca9619d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-20 18:48:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

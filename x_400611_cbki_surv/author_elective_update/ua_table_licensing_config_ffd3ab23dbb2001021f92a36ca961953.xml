@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_400611_cbki_surv_cbki</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 17:25:27</sys_created_on>
+        <sys_id>ffd3ab23dbb2001021f92a36ca961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400611_cbki_surv_cbki</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ffd3ab23dbb2001021f92a36ca961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-12 17:25:27</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</application>
+        <file_path/>
+        <instance_id>f4d6c141db09b70449eac597059619ba</instance_id>
+        <instance_name>dev83258</instance_name>
+        <name>ua_table_licensing_config_ffd3ab23dbb2001021f92a36ca961953</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_400611_cbki_surv_cbki</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-12 17:25:27</sys_created_on><sys_id>ffd3ab23dbb2001021f92a36ca961953</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_400611_cbki_surv_cbki</sys_name><sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package><sys_policy/><sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope><sys_update_name>ua_table_licensing_config_ffd3ab23dbb2001021f92a36ca961953</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-12 17:25:27</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-403317893</payload_hash>
+        <record_name>x_400611_cbki_surv_cbki</record_name>
+        <reverted_from/>
+        <source>314363efdb72001021f92a36ca9619f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 17:25:27</sys_created_on>
+        <sys_id>73d3ab23dbb2001021f92a36ca961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1703a6f240e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-12 17:25:27</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>bbd3ab23a2b20010464568b542707455</update_guid>
+        <update_guid_history>bbd3ab23a2b20010464568b542707455:-403317893</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 17:36:36</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>1a4450ad5c484af8871f4dfa74a68a40</sys_id>
+        <sys_metadata>ffd3ab23dbb2001021f92a36ca961953</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400611_cbki_surv_cbki</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_scope_delete display_value="">28c8f024361e419c8a0bad11da334b90</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_ffd3ab23dbb2001021f92a36ca961953</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_ffd3ab23dbb2001021f92a36ca961953">73d3ab23dbb2001021f92a36ca961956</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-12 17:36:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

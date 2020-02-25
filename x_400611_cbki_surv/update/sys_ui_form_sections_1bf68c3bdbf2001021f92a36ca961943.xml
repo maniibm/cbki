@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1bf68c3bdbf2001021f92a36ca961943" sys_domain="global" table="x_400611_cbki_surv_cbki_survey_assessments" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13f68c3bdbf2001021f92a36ca9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_400611_cbki_surv_cbki_survey_assessments" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">1bf68c3bdbf2001021f92a36ca961943</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">2446803bdbf2001021f92a36ca96194f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:58:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ff68c3bdbf2001021f92a36ca9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_400611_cbki_surv_cbki_survey_assessments" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">1bf68c3bdbf2001021f92a36ca961943</sys_ui_form>
+            <sys_ui_section caption="Personal Knowledge" display_value="Personal Knowledge" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">1bf68c3bdbf2001021f92a36ca961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:58:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:20:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34fb483fdbf2001021f92a36ca9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_400611_cbki_surv_cbki_survey_assessments" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">1bf68c3bdbf2001021f92a36ca961943</sys_ui_form>
+            <sys_ui_section caption="Application/Functional Knowledge" display_value="Application/Functional Knowledge" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">38fb483fdbf2001021f92a36ca9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:20:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:41:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaa05473db36001021f92a36ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_400611_cbki_surv_cbki_survey_assessments" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">1bf68c3bdbf2001021f92a36ca961943</sys_ui_form>
+            <sys_ui_section caption="Soft Skills" display_value="Soft Skills" name="x_400611_cbki_surv_cbki_survey_assessments" sys_domain="global" view="Default view">aaa05473db36001021f92a36ca9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:41:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 19:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bf68c3bdbf2001021f92a36ca961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_400611_cbki_surv_cbki_survey_assessments</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1bf68c3bdbf2001021f92a36ca961943</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:58:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

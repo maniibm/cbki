@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>copy_of_cbki_survey_1</id>
+        <internal>false</internal>
+        <public>true</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-17 20:34:52</sys_created_on>
+        <sys_id>532f75d5db83001021f92a36ca961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_cbki_survey_1</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_update_name>sp_page_532f75d5db83001021f92a36ca961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-17 20:34:52</sys_updated_on>
+        <title>Copy of CBKI Survey (1)</title>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=532f75d5db83001021f92a36ca961985"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</application>
+        <file_path/>
+        <instance_id>f4d6c141db09b70449eac597059619ba</instance_id>
+        <instance_name>dev83258</instance_name>
+        <name>sp_page_532f75d5db83001021f92a36ca961985</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>copy_of_cbki_survey_1</id><internal>false</internal><public>true</public><roles/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-17 20:34:52</sys_created_on><sys_id>532f75d5db83001021f92a36ca961985</sys_id><sys_mod_count>0</sys_mod_count><sys_name>copy_of_cbki_survey_1</sys_name><sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package><sys_policy/><sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope><sys_update_name>sp_page_532f75d5db83001021f92a36ca961985</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-17 20:34:52</sys_updated_on><title>Copy of CBKI Survey (1)</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=532f75d5db83001021f92a36ca961985"/></record_update>]]></payload>
+        <payload_hash>772245559</payload_hash>
+        <record_name>copy_of_cbki_survey_1</record_name>
+        <reverted_from/>
+        <source>76746363dbb2001021f92a36ca961977</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-17 20:34:52</sys_created_on>
+        <sys_id>1b2f75d5db83001021f92a36ca961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17054dc5aa10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-17 20:34:52</sys_updated_on>
+        <type>Page</type>
+        <update_guid>532f75d582830010be6ed4f82fde9487</update_guid>
+        <update_guid_history>532f75d582830010be6ed4f82fde9487:772245559</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="copy_of_cbki_survey_1">7c76b456db43001021f92a36ca9619a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nagamani</sys_created_by>
+        <sys_created_on>2020-02-20 17:51:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>00e7aeac3366433080022955d2682840</sys_id>
+        <sys_metadata>532f75d5db83001021f92a36ca961985</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_cbki_survey_1</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_scope_delete display_value="">28c8f024361e419c8a0bad11da334b90</sys_scope_delete>
+        <sys_update_name>sp_page_532f75d5db83001021f92a36ca961985</sys_update_name>
+        <sys_update_version display_value="sp_page_532f75d5db83001021f92a36ca961985">1b2f75d5db83001021f92a36ca961987</sys_update_version>
+        <sys_updated_by>nagamani</sys_updated_by>
+        <sys_updated_on>2020-02-20 17:51:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="business_requirements_understanding" label="Business requirements understanding" language="en" table="x_400611_cbki_surv_cbki_survey_assessments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>business_requirements_understanding</element>
+            <help/>
+            <hint/>
+            <label>Business requirements understanding</label>
+            <language>en</language>
+            <name>x_400611_cbki_surv_cbki_survey_assessments</name>
+            <plural>Business requirements understandings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-12 20:09:27</sys_created_on>
+            <sys_id>5a6908bbdbf2001021f92a36ca9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Business requirements understanding</sys_name>
+            <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+            <sys_update_name>sys_documentation_x_400611_cbki_surv_cbki_survey_assessments_business_requirements_understanding_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-12 20:09:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

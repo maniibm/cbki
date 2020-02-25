@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="DELETE">
+        <sp_dependency display_value="dialog-polyfill">2eaf31f30b301200b0b02c6317673a84</sp_dependency>
+        <sp_widget display_value="Copy of SC Catalog Item">8df3951edb83001021f92a36ca96196f</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>nagamani</sys_created_by>
+        <sys_created_on>2020-02-20 19:59:57</sys_created_on>
+        <sys_id>85f3951edb83001021f92a36ca96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dialog-polyfill.Copy of SC Catalog Item</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_85f3951edb83001021f92a36ca96198b</sys_update_name>
+        <sys_updated_by>nagamani</sys_updated_by>
+        <sys_updated_on>2020-02-20 19:59:57</sys_updated_on>
+    </m2m_sp_widget_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</application>
+        <file_path/>
+        <instance_id>f4d6c141db09b70449eac597059619ba</instance_id>
+        <instance_name>dev83258</instance_name>
+        <name>m2m_sp_widget_dependency_85f3951edb83001021f92a36ca96198b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency"><m2m_sp_widget_dependency action="INSERT_OR_UPDATE"><sp_dependency display_value="dialog-polyfill">2eaf31f30b301200b0b02c6317673a84</sp_dependency><sp_widget display_value="Copy of SC Catalog Item">8df3951edb83001021f92a36ca96196f</sp_widget><sys_class_name>m2m_sp_widget_dependency</sys_class_name><sys_created_by>nagamani</sys_created_by><sys_created_on>2020-02-20 19:59:57</sys_created_on><sys_id>85f3951edb83001021f92a36ca96198b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>dialog-polyfill.Copy of SC Catalog Item</sys_name><sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package><sys_policy/><sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope><sys_update_name>m2m_sp_widget_dependency_85f3951edb83001021f92a36ca96198b</sys_update_name><sys_updated_by>nagamani</sys_updated_by><sys_updated_on>2020-02-20 19:59:57</sys_updated_on></m2m_sp_widget_dependency></record_update>]]></payload>
+        <payload_hash>-124844216</payload_hash>
+        <record_name>dialog-polyfill.Copy of SC Catalog Item</record_name>
+        <reverted_from/>
+        <source>76746363dbb2001021f92a36ca961977</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nagamani</sys_created_by>
+        <sys_created_on>2020-02-20 19:59:57</sys_created_on>
+        <sys_id>05f3951edb83001021f92a36ca96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170642f79bc0000001</sys_recorded_at>
+        <sys_updated_by>nagamani</sys_updated_by>
+        <sys_updated_on>2020-02-20 19:59:57</sys_updated_on>
+        <type>Widget Dependency</type>
+        <update_guid>4df3951e11830010f605f2ce8ebe258c</update_guid>
+        <update_guid_history>4df3951e11830010f605f2ce8ebe258c:-124844216</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="dialog-polyfill.Copy of SC Catalog Item">196a9aaedb03001021f92a36ca96199d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nagamani</sys_created_by>
+        <sys_created_on>2020-02-21 19:46:11</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_widget_dependency">m2m_sp_widget_dependency</sys_db_object>
+        <sys_id>0cbc696069334ee48d30bf11e7e38fa9</sys_id>
+        <sys_metadata>85f3951edb83001021f92a36ca96198b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dialog-polyfill.Copy of SC Catalog Item</sys_name>
+        <sys_package display_value="CBKI Survey" source="x_400611_cbki_surv">7d4363efdb72001021f92a36ca9619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CBKI Survey">7d4363efdb72001021f92a36ca9619f1</sys_scope>
+        <sys_scope_delete display_value="">28c8f024361e419c8a0bad11da334b90</sys_scope_delete>
+        <sys_update_name>m2m_sp_widget_dependency_85f3951edb83001021f92a36ca96198b</sys_update_name>
+        <sys_update_version display_value="m2m_sp_widget_dependency_85f3951edb83001021f92a36ca96198b">05f3951edb83001021f92a36ca96198d</sys_update_version>
+        <sys_updated_by>nagamani</sys_updated_by>
+        <sys_updated_on>2020-02-21 19:46:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
